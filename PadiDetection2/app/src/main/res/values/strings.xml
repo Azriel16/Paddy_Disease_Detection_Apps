@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PadiDetection</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="start">Start</string>
+    <string name="clear">Clear</string>
+    <string name="result" />
+    <string name="inference_time">Inference Time</string>
+</resources>
